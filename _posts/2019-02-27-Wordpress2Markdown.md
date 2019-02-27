@@ -28,3 +28,6 @@ tags:
 将wordpress的备份文件命名为export.xml，将其和convert.js放在同一目录下，打开cmd，执行node  convert.js会自动在目录中生成out文件夹，所有文章将按照【年/月/博客名称/index.html.md】的方式生成。
 
 将生成的文件使用工具重命名为【年-月-日-博客名称.md】，再将这些文件放在_post目录下即可。
+
+#### 另外一个未尝试的方法是使用[Python的wp2md](https://github.com/dreikanter/wp2md)
+>此方法未做尝试，仅做备忘。
