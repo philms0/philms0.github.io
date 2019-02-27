@@ -2,7 +2,10 @@
 layout: post
 title: IFTTT:Make Life Easier
 date: 2014-12-14
-tags: ["GTD","IFTTT","Misc","提醒","记录"]
+author: Philms
+header-img: img/post/2017/post-bg-re-vs-ng2.jpg
+catalog: true
+tags: ["GTD","IFTTT","提醒","笔记"]
 ---
 
 # IFTTT是什么
