@@ -22,7 +22,7 @@ tags:
     将Wordpress的博客文件导出，这个我之前已经导出了备份；
 
 
-    使用node.js的 [wordpress-to-markdown](https://github.com/ytechie/wordpress-to-markdown) 将其转换成markdown。
+    使用node.js的<https://github.com/ytechie/wordpress-to-markdown>将其转换成markdown。
 
     注意我是在Windows平台做的，安装node.js后，运行convert报错，发现缺少xml2js和to-markdown模块。
 
