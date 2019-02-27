@@ -3,15 +3,15 @@ title: Philms Blog
 SEOTitle: Philms Blog
 header-img: img/Main-bg.jpg
 email: philms|outlook|com
-description: "hold."
-keyword: "Philms, iOS, Apple, iPhone"
-url: "https:/philms0.github.io"          # your host, for absolute URL
+description: "一个懒人。"
+keyword: "Philms, GTD, 摄影, 笔记, 信息"
+url: "https://philms.today"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/philms0/philms0.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "一把刀的锋刃很不容易越过；因此智者说得救之道是困难的。"
 sidebar-avatar: /img/philms.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
