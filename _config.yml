@@ -18,7 +18,7 @@ sidebar-avatar: /img/philms.jpg      # use absolute URL, seeing it's used in bot
 
 # SNS settings
 RSS: false
- weibo_username:     philms
+#weibo_username:     philms
 zhihu_username:     philms
 github_username:    philms0
 #facebook_username:  baiying.qiu.7
