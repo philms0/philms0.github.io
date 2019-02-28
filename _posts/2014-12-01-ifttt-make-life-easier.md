@@ -1,11 +1,11 @@
 ---
-layout: post
-title: IFTTT:Make Life Easier
-date: 2014-12-14
-author: Philms
-header-img: <https://web-assets.ifttt.com/assets/home/new_home/above_ill_d-dd0b01e170eaa7d275357320c7c3b10000a00f34764b1ddc2d22842cb3cf383e.png>
-catalog: true
-tags: ["GTD","IFTTT","提醒","笔记"]
+layout: 	post
+title: 		IFTTT Make Life Easier
+date: 		2014-12-14
+author: 	Philms
+header-img: img/post/2017/post-bg-ios9-web.jpg
+catalog: 	true
+tags: 		["GTD","IFTTT","提醒","笔记"]
 ---
 
 # IFTTT是什么
