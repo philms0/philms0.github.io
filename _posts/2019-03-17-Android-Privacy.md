@@ -10,10 +10,7 @@ tags:
     - 安卓
     - 隐私
 ---
-[![这是一个视频测试]()](http://124.14.19.182/65728774E653E7191D171234D/03000A01005CA1859095C4F309744B72C8F450-2011-42EF-A1D7-792BC5A4D35E.mp4?ccode=0519&duration=170&expire=18000&psid=5a3ac7d96eb7054223c050e63e3ba8c5&ups_client_netip=daf92d42&ups_ts=1554111338&ups_userid=&utid=LZLZDe4T3CcCAdr5LULv5yeF&vid=XNDEyMDk1MTA3Ng&vkey=A87977b62e465eb34426b62abd8653beb&s=bbeb2ecefd644b98b778&sp=&ali_redirect_domain=vali.cp31.ott.cibntv.net&ali_redirect_ex_ftag=168683dcfee8332980c0fa2635eae10318962371d07af50f&ali_redirect_ex_tmining_ts=1554111339&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=0)
-<video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="http://124.14.19.182/65728774E653E7191D171234D/03000A01005CA1859095C4F309744B72C8F450-2011-42EF-A1D7-792BC5A4D35E.mp4?ccode=0519&duration=170&expire=18000&psid=5a3ac7d96eb7054223c050e63e3ba8c5&ups_client_netip=daf92d42&ups_ts=1554111338&ups_userid=&utid=LZLZDe4T3CcCAdr5LULv5yeF&vid=XNDEyMDk1MTA3Ng&vkey=A87977b62e465eb34426b62abd8653beb&s=bbeb2ecefd644b98b778&sp=&ali_redirect_domain=vali.cp31.ott.cibntv.net&ali_redirect_ex_ftag=168683dcfee8332980c0fa2635eae10318962371d07af50f&ali_redirect_ex_tmining_ts=1554111339&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=0" type="video/mp4">
-</video>
+
 重新使用LineageOS刷机
 
 目前是LineageOS加Gapps，只在Google Play, F-Droid以及Github下载应用，非以上来源的应用一律安装到Shelter。
