@@ -1,24 +1,23 @@
-# 中国近代史-笔记
 
-`layout:     post `
+layout:     post
 
-`title:      中国近代史-笔记 `
+title:      中国近代史-笔记
 
-`subtitle:   讲述中国近代400年的历史 `
+subtitle:   讲述中国近代400年的历史
 
-`author:     Philms `
+author:     Philms
 
-`date:       2019-04-13 `
+date:       2019-04-13
 
-`header-img: img/post/2017/post-bg-ios9-web.jpg `
+header-img: img/post/2017/post-bg-ios9-web.jpg
 
-`catalog: 	true `
+catalog: 	true 
 
-`tags:   `
+tags:   
 
-`  - 中国近代史    `  
+  - 中国近代史 
 
-` - 中美关系`
+ - 中美关系
 
 *作者：徐中约*
 
