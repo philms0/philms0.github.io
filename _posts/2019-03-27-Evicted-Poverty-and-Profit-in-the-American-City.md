@@ -4,7 +4,7 @@ title:      扫地出门-笔记
 subtitle:   美国城市的贫穷与暴利
 author:     Philms
 date:       2019-03-27
-header-img: img/post/2017/post-bg-ios9-web.jpg
+header-img: img/post/2019/Booknotes.jpg
 catalog: 	true
 tags:
     - 贫穷

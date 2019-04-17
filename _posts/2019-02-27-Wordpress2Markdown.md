@@ -4,7 +4,7 @@ title:      Wordpress2Markdown
 subtitle:   将wordpress博客备份文件转为一个个md文件
 uthor:     Philms
 date:       2019-02-27
-header-img: img/post/2017/post-bg-ios9-web.jpg
+header-img: img/post/Hardwares.jpg
 catalog: 	true
 tags:
     - Wordpress

@@ -4,7 +4,7 @@ title:      安卓手机的隐私管理
 subtitle:   解决安卓手机的隐私泄漏的一些方法
 author:     Unkown
 date:       2019-03-17
-header-img: img/post/2017/post-bg-ios9-web.jpg
+header-img: img/post/Hardwares.jpg
 catalog: 	true
 tags:
     - 安卓

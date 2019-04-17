@@ -1,24 +1,15 @@
-
+---
 layout:     post
-
 title:      中国近代史-笔记
-
 subtitle:   讲述中国近代400年的历史
-
 author:     Philms
-
 date:       2019-04-13
-
-header-img: img/post/2017/post-bg-ios9-web.jpg
-
-catalog: 	true 
-
-tags:   
-
-  - 中国近代史 
-
- - 中美关系
-
+header-img: img/post/2019/Booknotes.jpg
+catalog: 	true
+tags:
+	- 中国近代史 
+	- 中美关系
+---
 *作者：徐中约*
 
 ### 中西文明从渐行渐远到汇合
