@@ -3,16 +3,16 @@ layout:     post
 title:      中国近代史-笔记
 subtitle:   讲述中国近代400年的历史
 author:     Philms
-date:       2019-04-13
+date:       2019-04-23
 header-img: img/post/2019/Booknotes.jpg
 catalog: 	true
 tags:
-	- 中国近代史 
-	- 中美关系
+    - 中国近代史 
+    - 中美关系
 ---
-*作者：徐中约*
+_作者：徐中约_
 
-### 中西文明从渐行渐远到汇合
+## 中西文明从渐行渐远到汇合
 
 中国历史与西方历史的会合为什么到十六世纪才开始，而西方的影响又为什么到十九世纪才得以加强？
 
